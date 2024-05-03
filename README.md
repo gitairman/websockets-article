@@ -21,8 +21,8 @@ sequenceDiagram
 
 ### For more detailed information about the websocket protocol, please see the below resources
 
--- [RFC 6455 The WebSocket Protocol IETF](https://datatracker.ietf.org/doc/html/rfc6455)
--- [WebSockets Living Standard](https://websockets.spec.whatwg.org/)
+- [RFC 6455 The WebSocket Protocol IETF](https://datatracker.ietf.org/doc/html/rfc6455)
+- [WebSockets Living Standard](https://websockets.spec.whatwg.org/)
 
 
 # What are WebSockets used for?
