@@ -20,7 +20,7 @@ sequenceDiagram
 3. **Bidirectional Data Transfer:** With the WebSocket connection established, both the client and server can send messages to each other at any time, without waiting for a request from the other party. This bidirectional communication allows for real-time data exchange.
 
 
-What are they used for?
+# What are WebSockets used for?
 WebSockets are employed in various applications requiring real-time communication and low-latency data transfer. Below are some common use cases:
 
 ```mermaid
