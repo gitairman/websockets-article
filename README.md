@@ -19,7 +19,7 @@ sequenceDiagram
 2. **WebSocket Connection:** Once the handshake is completed and the connection is established, the protocol switches to a WebSocket connection. This connection remains open for the duration of the session.
 3. **Bidirectional Data Transfer:** With the WebSocket connection established, both the client and server can send messages to each other at any time, without waiting for a request from the other party. This bidirectional communication allows for real-time data exchange.
 
-### For more detailed information about the websocket protocol, please see the below resources
+### For more detailed information about the websocket protocol and standard, please see the below resources
 
 - [RFC 6455 The WebSocket Protocol IETF](https://datatracker.ietf.org/doc/html/rfc6455)
 - [WebSockets Living Standard](https://websockets.spec.whatwg.org/)
