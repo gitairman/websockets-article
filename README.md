@@ -12,7 +12,7 @@ sequenceDiagram
     Client ->> Server: WebSocket Handshake (HTTP)
     Server -->> Client: Upgrade Required
     Client -->> Server: WebSocket Connection
-    Client <<->> Server: Bidirectional Data Transfer
+    Client -->> Server: Bidirectional Data Transfer
     Server -->> Client: Bidirectional Data Transfer
 ```
 1. **WebSocket Handshake (HTTP):** The WebSocket connection begins with a handshake between the client and server, initiated through an HTTP request. This handshake involves negotiating the WebSocket protocol upgrade.
