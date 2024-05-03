@@ -45,16 +45,16 @@ sequenceDiagram
 
 # What are some popular WS libraries?
 
-**Socket.IO** (JavaScript/Node.js):
+1. **Socket.IO** (JavaScript/Node.js):
 Socket.IO is a JavaScript library for real-time web applications. It enables bidirectional communication between web clients and servers and offers features like multiplexing, broadcasting, and automatic reconnection.
 - Website: [Socket.IO](https://socket.io/)
 - GitHub: [socketio/socket.io](https://github.com/socketio/socket.io)
 
-**WebSocket-Node** (JavaScript/Node.js):
+2. **WebSocket-Node** (JavaScript/Node.js):
 WebSocket-Node is a WebSocket implementation for Node.js. It provides a simple API for working with WebSocket connections in server-side Node.js applications.
 - GitHub: [websocket/websocket-node](https://github.com/websocket/websocket-node)
 
-**ws** (JavaScript/Node.js):
+3. **ws** (JavaScript/Node.js):
 ws is a lightweight WebSocket library for Node.js. It is simple, fast, and easy to use, making it a popular choice for WebSocket communication in Node.js applications.
 - GitHub: [websockets/ws](https://github.com/websockets/ws)
 
