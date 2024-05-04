@@ -52,7 +52,9 @@ Socket.IO is a JavaScript library for real-time web applications. It enables bid
   
 
 
-https://github.com/gitairman/websockets-article/assets/97379449/9bfa3bb4-d794-4d5b-89f6-7849ddfc5d80
+
+https://github.com/gitairman/websockets-article/assets/97379449/bbc66193-f809-4ebb-b5a3-13305685a395
+
 
 
 
