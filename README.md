@@ -49,6 +49,12 @@ sequenceDiagram
 Socket.IO is a JavaScript library for real-time web applications. It enables bidirectional communication between web clients and servers and offers features like multiplexing, broadcasting, and automatic reconnection.
     - Website: [Socket.IO](https://socket.io/)
     - GitHub: [socketio/socket.io](https://github.com/socketio/socket.io)
+  
+
+
+https://github.com/gitairman/websockets-article/assets/97379449/9bfa3bb4-d794-4d5b-89f6-7849ddfc5d80
+
+
 
 2. **WebSocket-Node** (JavaScript/Node.js):
 WebSocket-Node is a WebSocket implementation for Node.js. It provides a simple API for working with WebSocket connections in server-side Node.js applications.
