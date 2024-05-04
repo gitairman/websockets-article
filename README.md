@@ -43,7 +43,7 @@ sequenceDiagram
 
 
 
-# What are some popular WS libraries?
+# What are some popular WS libraries for Node.js?
 
 1. **Socket.IO** (JavaScript/Node.js):
 Socket.IO is a JavaScript library for real-time web applications. It enables bidirectional communication between web clients and servers and offers features like multiplexing, broadcasting, and automatic reconnection.
