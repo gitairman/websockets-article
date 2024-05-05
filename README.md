@@ -1,5 +1,5 @@
 # What are WebSockets?
-WebSockets are a communication protocol that enables bidirectional, full-duplex communication between clients (such as web browsers) and servers over a single, persistant TCP connection. They facilitate real-time data exchange and are commonly used in applications that require instant updates and low-latency communication.
+WebSockets are a communication protocol that enables bidirectional, full-duplex communication between clients (such as web browsers) and servers over a single, persistent TCP connection. They facilitate real-time data exchange and are commonly used in applications that require instant updates and low-latency communication.
 
 ```mermaid
 sequenceDiagram
