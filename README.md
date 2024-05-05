@@ -23,6 +23,8 @@ sequenceDiagram
 
 
 
+
+
 # What are WebSockets used for?
 WebSockets are employed in various applications requiring real-time communication and low-latency data transfer. Below are some common use cases:
 
@@ -40,6 +42,8 @@ sequenceDiagram
 1. **Real-time Chat Applications:** WebSockets are ideal for chat applications where users need to exchange messages instantly. With WebSockets, messages can be sent and received in real-time, providing a seamless chatting experience.
 2. **Live Data Streaming:** WebSockets are utilized to stream live data (e.g., stock prices, weather updates) to clients in real-time. This enables users to receive continuous updates without the need to refresh the page.
 3. **Multiplayer Online Games:** WebSockets find extensive usage in multiplayer online games to facilitate real-time communication between players and the game server. This allows players to interact with each other and see updates instantly as they occur in the game world.
+
+
 
 
 
@@ -68,17 +72,19 @@ ws is a lightweight WebSocket library for Node.js. It is simple, fast, and easy 
 
 
 
+
+
 # What are some popular managed WS solutions?
 
-**Pusher**:
+1. **Pusher**:
 Pusher is a hosted service that provides APIs and libraries for adding real-time functionality to web and mobile applications. It offers features like real-time event streaming, presence channels, and push notifications.
-Website: [Pusher](https://pusher.com/)
-GitHub: [pusher](https://github.com/pusher)
+    - Website: [Pusher](https://pusher.com/)
+    - GitHub: [pusher](https://github.com/pusher)
 
-**PieHost**:
+2. **PieHost**:
 PieSocket is a managed WebSocket service that offers real-time messaging capabilities for web applications. It provides features like message broadcasting, presence detection, and analytics.
-Website: [PieHost](https://www.piehost.com/)
-GitHub: N/A
+    - Website: [PieHost](https://www.piehost.com/)
+    - GitHub: N/A
 
 
 
@@ -87,8 +93,8 @@ https://github.com/gitairman/websockets-article/assets/97379449/44a9daa0-324e-45
 
 
 
-**Ably**:
+3. **Ably**:
 Ably is a real-time data delivery platform that provides scalable and reliable messaging APIs for building distributed and collaborative applications. It offers features like pub/sub messaging, presence, and message history.
-Website: [Ably](https://www.ably.io/)
-GitHub: [ably/ably-js](https://github.com/ably/ably-js)
+    - Website: [Ably](https://www.ably.io/)
+    - GitHub: [ably/ably-js](https://github.com/ably/ably-js)
 
