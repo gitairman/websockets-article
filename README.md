@@ -66,3 +66,29 @@ WebSocket-Node is a WebSocket implementation for Node.js. It provides a simple A
 ws is a lightweight WebSocket library for Node.js. It is simple, fast, and easy to use, making it a popular choice for WebSocket communication in Node.js applications.
     - GitHub: [websockets/ws](https://github.com/websockets/ws)
 
+
+
+# What are some popular managed WS solutions?
+
+**Pusher**:
+Pusher is a hosted service that provides APIs and libraries for adding real-time functionality to web and mobile applications. It offers features like real-time event streaming, presence channels, and push notifications.
+Website: [Pusher](https://pusher.com/)
+GitHub: [pusher](https://github.com/pusher)
+
+**PieHost**:
+PieSocket is a managed WebSocket service that offers real-time messaging capabilities for web applications. It provides features like message broadcasting, presence detection, and analytics.
+Website: [PieHost](https://www.piehost.com/)
+GitHub: N/A
+
+
+
+https://github.com/gitairman/websockets-article/assets/97379449/44a9daa0-324e-45f4-8d82-0b5834e0195e
+
+
+
+
+**Ably**:
+Ably is a real-time data delivery platform that provides scalable and reliable messaging APIs for building distributed and collaborative applications. It offers features like pub/sub messaging, presence, and message history.
+Website: [Ably](https://www.ably.io/)
+GitHub: [ably/ably-js](https://github.com/ably/ably-js)
+
