@@ -84,13 +84,6 @@ PieSocket is a managed WebSocket service that offers real-time messaging capabil
     - Website: [PieHost](https://www.piehost.com/)
     - GitHub: N/A
 
-
-
-https://github.com/gitairman/websockets-article/assets/97379449/44a9daa0-324e-45f4-8d82-0b5834e0195e
-
-
-
-
 3. **Ably**:
 Ably is a real-time data delivery platform that provides scalable and reliable messaging APIs for building distributed and collaborative applications. It offers features like pub/sub messaging, presence, and message history.
     - Website: [Ably](https://www.ably.io/)
