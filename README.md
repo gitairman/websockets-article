@@ -32,9 +32,9 @@ sequenceDiagram
     participant Server
     participant ClientY
 
-    ClientX -->> Server: ClientX sends chat message, streams video/audio, moves player
+    ClientX -->> Server: ClientX sends chat message/streams video/audio/moves player
     Server -->> ClientY: Server sends update to any other clients listening for changes
-    ClientY -->> Server: ClientY sends chat message, streams video/audio, moves player
+    ClientY -->> Server: ClientY sends chat message/streams video/audio/moves player
     Server -->> ClientX: Server sends update to any other clients listening for changes
 ```
 1. **Real-time Chat Applications:** WebSockets are ideal for chat applications where users need to exchange messages instantly. With WebSockets, messages can be sent and received in real-time, providing a seamless chatting experience.
