@@ -21,9 +21,7 @@ sequenceDiagram
 - [RFC 6455 The WebSocket Protocol IETF](https://datatracker.ietf.org/doc/html/rfc6455)
 - [WebSockets Living Standard](https://websockets.spec.whatwg.org/)
 
-
-
-
+&nbsp;
 
 # What are WebSockets used for?
 WebSockets are employed in various applications requiring real-time communication and low-latency data transfer. Below are some common use cases:
@@ -44,7 +42,7 @@ sequenceDiagram
 3. **Multiplayer Online Games:** WebSockets find extensive usage in multiplayer online games to facilitate real-time communication between players and the game server. This allows players to interact with each other and see updates instantly as they occur in the game world.
 
 
-
+&nbsp;
 
 
 # What are some popular WS libraries for Node.js?
@@ -71,7 +69,7 @@ ws is a lightweight WebSocket library for Node.js. It is simple, fast, and easy 
     - GitHub: [websockets/ws](https://github.com/websockets/ws)
 
 
-
+&nbsp;
 
 
 # What are some popular managed WS solutions?
